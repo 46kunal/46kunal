@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=46kunal" alt="46kunal" /></a> </p>
 
-- 🔭 I’m currently working on [digital_twin_project](https://github.com/46kunal/digital_twin_project)
+- 🔭 I’m currently working on [digital_twin_project](https://github.com/46kunal/Aegis-V2)
 
 - 🌱 I’m currently learning **ML,CYBERSECURITY,DSA**
 
